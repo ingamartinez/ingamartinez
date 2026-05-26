@@ -51,3 +51,4 @@
 ---
 
 _Open to senior full-stack / staff-augmentation engagements with US-based teams._
+
