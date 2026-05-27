@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingamartinez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Alejandro's GitHub stats](https://github-readme-stats-lac-sigma-33.vercel.app/api?username=ingamartinez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingamartinez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-lac-sigma-33.vercel.app/api/top-langs/?username=ingamartinez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
